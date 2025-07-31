@@ -1,0 +1,48 @@
+# Dart/Pub related
+.dart_tool/
+.packages
+.pub/
+.pub-cache/
+
+# Flutter-specific
+.flutter-plugins
+.flutter-plugins-dependencies
+build/
+**/ios/Flutter/.last_build_id
+
+# Web-specific
+flutter.js  # Auto generated
+
+# Android-specific
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# iOS/macOS-specific
+*.xcworkspace
+*.xcuserstate
+*.xcuserdatad
+*.xcodeproj
+Pods/
+DerivedData/
+.DS_Store
+
+# Windows/Linux-specific
+Thumbs.db
+
+# IntelliJ/Android Studio
+*.iml
+.idea/
+*.ipr
+*.iws
+
+# VS Code
+.vscode/
+
+# Misc
+*.log
+*.swp
+*.pyc
+*.class
+.history
+.svn/
